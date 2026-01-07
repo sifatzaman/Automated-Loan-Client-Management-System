@@ -48,6 +48,9 @@ flowchart TD
 - Automated validation and formatting
 - New client records appended programmatically
 
+<p align="center">
+  <img src="https://github.com/sifatzaman/Automated-Loan-Client-Management-System/blob/main/Initial%20Form.png" width="50%">
+</p>
 
 ---
 
@@ -70,6 +73,9 @@ flowchart TD
   - Outstanding dues
 - Eliminates manual computation errors
 
+<p align="center">
+  <img src="https://github.com/sifatzaman/Excel_interactive_dashboard/blob/main/Screen1.png" width="50%">
+</p>
 ---
 
 ### 4️⃣ Search & Retrieval System
@@ -79,6 +85,9 @@ flowchart TD
   - Payment status
   - Installment summaries
 
+<p align="center">
+  <img src="https://github.com/sifatzaman/Excel_interactive_dashboard/blob/main/Screen1.png" width="50%">
+</p>
 ---
 
 ### 5️⃣ Installment Recording Engine
@@ -94,7 +103,10 @@ flowchart TD
   - Loan status
   - Payment history
   - Current liabilities
-
+  
+<p align="center">
+  <img src="https://github.com/sifatzaman/Excel_interactive_dashboard/blob/main/Screen1.png" width="50%">
+</p>
 ---
 
 ##  Technical Highlights
