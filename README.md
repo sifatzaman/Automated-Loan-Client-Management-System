@@ -74,7 +74,7 @@ flowchart TD
 - Eliminates manual computation errors
 
 <p align="center">
-  <img src="https://github.com/sifatzaman/Excel_interactive_dashboard/blob/main/Screen1.png" width="50%">
+  <img src="https://github.com/sifatzaman/Automated-Loan-Client-Management-System/blob/main/Data%20Preserve.png" width="50%">
 </p>
 ---
 
@@ -86,7 +86,7 @@ flowchart TD
   - Installment summaries
 
 <p align="center">
-  <img src="https://github.com/sifatzaman/Automated-Loan-Client-Management-System/blob/main/Data%20Preserve.png" width="50%">
+  <img src="https://github.com/sifatzaman/Automated-Loan-Client-Management-System/blob/main/Deposit%20Form.png" width="50%">
 </p>
 ---
 
