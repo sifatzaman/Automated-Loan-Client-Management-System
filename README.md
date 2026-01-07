@@ -86,7 +86,7 @@ flowchart TD
   - Installment summaries
 
 <p align="center">
-  <img src="https://github.com/sifatzaman/Excel_interactive_dashboard/blob/main/Screen1.png" width="50%">
+  <img src="https://github.com/sifatzaman/Automated-Loan-Client-Management-System/blob/main/Data%20Preserve.png" width="50%">
 </p>
 ---
 
@@ -95,6 +95,9 @@ flowchart TD
 - Maintains chronological history
 - Updates aggregate totals automatically
 
+<p align="center">
+  <img src="https://github.com/sifatzaman/Automated-Loan-Client-Management-System/blob/main/Installment%20Data.png" width="50%">
+</p>
 ---
 
 ### 6️⃣ Automated Reporting
@@ -105,7 +108,7 @@ flowchart TD
   - Current liabilities
   
 <p align="center">
-  <img src="https://github.com/sifatzaman/Excel_interactive_dashboard/blob/main/Screen1.png" width="50%">
+  <img src="https://github.com/sifatzaman/Automated-Loan-Client-Management-System/blob/main/Report.png" width="50%">
 </p>
 ---
 
